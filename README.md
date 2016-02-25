@@ -73,3 +73,9 @@ lipo -create "${DEVICE_DIR}/${FMK_NAME}" "${SIMULATOR_DIR}/${FMK_NAME}" -output 
 rm -r "${WRK_DIR}"
 open "${INSTALL_DIR}"
 ```
+
+##参考
+
+1、http://www.cocoachina.com/industry/20131204/7468.html
+
+2、http://www.cocoachina.com/ios/20150127/11022.html
